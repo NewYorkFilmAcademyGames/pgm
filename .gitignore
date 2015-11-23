@@ -1,4 +1,5 @@
 Intermediate
 Saved
 /ProjectMaze/Saved/Logs/*.log
-*.umap
+/ProjectMaze/Content/SuperGrid/Tutorial/TutorialMap.umap
+/ProjectMaze/Content/StarterContent/Maps
